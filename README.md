@@ -5,5 +5,10 @@ This project involved updating an existing code to meet accesibility standards, 
 
 Link:
 
+https://alisonarmstrong.github.io/armstrong-homework1-coderefactor-correctingsemantichtmlandcss/
+
+https://github.com/alisonarmstrong/armstrong-homework1-coderefactor-correctingsemantichtmlandcss
+
 
 Screenshots:
+in folder
